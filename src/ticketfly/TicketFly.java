@@ -23,7 +23,7 @@ public class TicketFly {
 — Первые два символа должны быть только буквами «EI» или «FR». Это не так.нет Необходимо учитывать регистр символов.
 - Остальные символы должны быть цифрами.
 - Последние два символа должны быть равны 22.
-
+task was translated 
      */
     public static void main(String[] args) {
         // TODO code application logic here
